@@ -1,6 +1,8 @@
 import * as PIXI from 'pixi.js';
 import { moveBall } from './moveBall';
 
+const GameContext = new GameContext();
+
 const app = new PIXI.Application<HTMLCanvasElement>({
   width: 400,
   height: 800,
