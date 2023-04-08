@@ -13,9 +13,14 @@
     "pixi.js": "^7.2.3"
   },
   "devDependencies": {
+    "@pixi/eslint-config": "^4.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/parser": "^5.57.1",
     "eslint": "^8.37.0",
+    "eslint-plugin-typescript": "^0.14.0",
     "parcel": "^2.0.0-beta.3",
     "punycode": "^1.4.1",
-    "querystring-es3": "^0.2.1"
+    "querystring-es3": "^0.2.1",
+    "typescript": "^5.0.4"
   }
 }
