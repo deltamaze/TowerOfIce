@@ -9,9 +9,10 @@
   "rules": {
     "@typescript-eslint/explicit-function-return-type": "off",
     "@typescript-eslint/no-explicit-any": "off",
-    "linebreak-style": ["error", "windows"],
+    "linebreak-style": "off",
     "indent": ["error", 2],
     "@typescript-eslint/indent": ["error", 2],
-    "@typescript-eslint/brace-style": ["error", "1tbs"]
+    "@typescript-eslint/brace-style": ["error", "1tbs"],
+    "@typescript-eslint/quotes": "off"
   }
 }
